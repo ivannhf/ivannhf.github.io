@@ -2,7 +2,7 @@
 title: "Urban positioning: 3D mapping-aided GNSS using dual-frequency pseudorange measurements from smartphones"
 collection: Webinar
 type: "Webinar"
-permalink: https://www.ion.org/publications/webinar-ng.cfm
+permalink: /talks/2022-03-30-ION-webinar
 venue: "Institute of Navigation"
 date: 2022-03-30
 location: "Online"
